@@ -1071,6 +1071,7 @@ var cnames_active = {
   "sailesh": "saileshkasaju.github.io/crud-react-redux-mongo",
   "salvacam": "salvacam.github.io",
   "salvattore": "rnmp.github.io/salvattore",
+  "fizz":"amumubuku.github.io",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samlify": "tngan.github.io/samlify",
   "samplyr": "arze1.github.io/samplyr-site",
