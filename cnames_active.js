@@ -411,6 +411,7 @@ var cnames_active = {
   "fariz": "farizdev.github.io/fariz",
   "faucet": "faucetjs.github.io",
   "faux": "fauxOS.github.io",
+  "fizz","amumubuku.github.io",
   "fcbosque": "cronopio.github.io/fcbosque", // noCF? (don´t add this in a new PR)
   "feature-u": "kevinast.github.io/feature-u",
   "feeble": "feeblejs.github.io/feeble",
